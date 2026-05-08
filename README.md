@@ -83,6 +83,18 @@ TouchDX 是一个包含三大组件的完整生态，每个部分各司其职，
 
 <br/>
 
+## 💖 赞助与支持
+
+开源不易，为爱发电。如果您觉得 TouchDX 让您的打歌体验变得更好，或者这款工具对您有所帮助，欢迎通过**爱发电**请作者喝杯咖啡！
+
+<div align="center">
+  <a href="https://ifdian.net/a/YubaiNya" target="_blank">
+    <img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E8%B5%9E%E5%8A%A9%E4%BD%9C%E8%80%85-946ce6?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="赞助作者" height="35">
+  </a>
+</div>
+
+<br/>
+
 ## 🤝 参与贡献
 
 这是一个源于热爱且持续迭代的项目，非常欢迎各路大佬加入：
